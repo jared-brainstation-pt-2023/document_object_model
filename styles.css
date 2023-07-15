@@ -1,0 +1,19 @@
+#intro {
+    color: red;
+}
+
+.alert {
+    color: green;
+}
+
+.removedClass {
+    color: goldenrod;
+}
+
+.addedClass {
+    background-color: purple;
+}
+
+.anotherAddedClass {
+    border: 5px dotted pink;
+}
